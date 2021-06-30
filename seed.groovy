@@ -1,6 +1,6 @@
-folder('CI-Pipelines') {
-  displayName('CI Pipelines')
-  description('CI Pipelines')
+folder('CI-Pipelines2') {
+  displayName('CI Pipelines2')
+  description('CI Pipelines2')
 }
 
 def component = ["cart", "catalogue","user","payment","shipping","frontend"];
